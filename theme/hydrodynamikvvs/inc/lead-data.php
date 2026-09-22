@@ -18,7 +18,5 @@ return array(
 		array( 'Killarna kan sitt arbete, mästare av högsta klass, särskilt tillhandahållandet av VVS-tjänster, han är en professionell inom sitt område', 'Princ Umar', 'för 4 år sedan' ),
 		array( 'De överlägset mest professionella hantverkare jag stött på. Alltid hjälpsamma, trevliga och gör det lilla extra.', 'Åke', 'för 3 år sedan' ),
 	),
-	'bild_hero'      => 'foto-1.jpg',
-	'bilder'         => array( 'foto-2.jpg', 'foto-3.jpg', 'foto-4.jpg' ),
 	'ar_riktig'      => true,
 );
