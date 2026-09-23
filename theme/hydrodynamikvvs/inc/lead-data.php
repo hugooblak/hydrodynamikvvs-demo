@@ -5,6 +5,7 @@
  */
 return array(
 	'foretag'        => 'Hydro Dynamik VVS AB',
+	'bransch'        => 'Badrumsinstallatör',
 	'telefon'        => '08-628 00 85',
 	'telefon_tel'    => '+4686280085',
 	'ort'            => 'Vällingby',
